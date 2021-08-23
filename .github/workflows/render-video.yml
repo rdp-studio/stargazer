@@ -4,15 +4,15 @@ on:
       repoOrg:
         description: "Repo Org"
         required: true
-        default: "pomber"
+        default: "rdp-studio"
       repoName:
         description: "Repo Name"
         required: true
-        default: "didact"
+        default: "proxypool-configs"
       starCount:
         description: "Star Count"
         required: true
-        default: 100
+        default: 3
       duration:
         description: "Duration (seconds)"
         required: false
